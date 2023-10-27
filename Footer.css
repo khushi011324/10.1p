@@ -1,0 +1,63 @@
+/* Footer.css */
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333; /* Change to a dark color */
+  color: white; /* Change text color to white */
+  padding: 30px; /* Increase padding for more spacing */
+  font-size: 18px; /* Adjust font size */
+  margin-top: 30px; /* Increase top margin */
+}
+
+.footer-column {
+  flex: 1;
+}
+
+h3 {
+  font-size: 1.5rem; /* Larger heading size */
+  margin-bottom: 15px; /* Increased margin */
+}
+
+h2 {
+  font-size: 2rem; /* Larger heading size */
+  margin-bottom: 15px; /* Increased margin */
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px; /* Increased margin between list items */
+}
+
+.footer-center {
+  text-align: center;
+  flex: 1;
+  background-color: #555; /* Change to a slightly lighter color */
+  color: white; /* Change text color to white */
+  padding: 30px; /* Increase padding for more spacing */
+  font-size: 18px; /* Adjust font size */
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.footer-icons {
+  /* Adjust the styling for your icons as needed */
+  display: flex; /* Display icons in a row */
+  justify-content: center; /* Center align the icons horizontally */
+  align-items: center; /* Center align the icons vertically */
+}
+
+.footer-icons img {
+  border: none;
+  border-radius: 50px; /* Rounded corners for icons */
+  margin: 10px; /* Increased margin around the icons */
+}

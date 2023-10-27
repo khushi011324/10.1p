@@ -1,0 +1,16 @@
+.header{
+    background-color:grey;
+    text-align: left;
+    /* padding:2px; */
+    display:flex;
+    justify-content:left;
+    margin:0;
+    text-align: center;
+    color: black;
+    font-size: larger;
+    }
+
+.input-bar{
+    text-align: center;
+}
+    

@@ -1,0 +1,14 @@
+.button-new {
+    background-color: grey;
+    color: black;
+    border: black;
+    padding: 20px 40px;
+    cursor: pointer;
+    width: 350px;
+    height: 100px;
+    font-size: x-large;
+    font-weight: bold;
+    
+ }
+ 
+ 

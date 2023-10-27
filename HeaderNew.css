@@ -1,0 +1,29 @@
+.header-new {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center content horizontally */
+    background-color: gray;
+    color: black;
+    border: 21px solid black;
+    height: 200px; /* Updated height to 80px */
+    text-align: center; /* Center text horizontally */
+    margin: 0;
+    font-size: 36px; /* Increased font size for a larger, more formal look */
+}
+
+.button-bar-new {
+    width: 200%;
+    display: block;
+    gap: 40px;
+    color: white;
+    font-size: 28px; /* Increased font size for a larger, more formal look */
+}
+
+.error-message {
+    color: #ff0000;
+    background-color: #ffeaea;
+    border: 20px solid #ff0000;
+    padding: 50px; /* Increased padding for spacing */
+    border-radius: 40px; /* Apply rounded corners */
+    text-align: center; /* Center text horizontally */
+}

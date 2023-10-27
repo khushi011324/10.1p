@@ -1,0 +1,15 @@
+.new {
+    text-align: center;
+    padding: 15px;
+    font-family: 'Lucida Sans', sans-serif; /* Provide a fallback font family */
+    font-size: 40px;
+    margin-bottom: 24px;
+    margin-top: 14px;
+    /* Add additional properties to ensure text doesn't overlap with other elements */
+    line-height: 1.5; /* Increase line height for better readability */
+    color: #333; /* Set a text color that works well with the background */
+    background-color: #fff; /* Add a background color for better contrast */
+    border: 1px solid #ccc; /* Add a border to separate the text from other elements */
+    border-radius: 5px; /* Apply rounded corners to the text container */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow for depth */
+}

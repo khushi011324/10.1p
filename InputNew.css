@@ -1,0 +1,13 @@
+.input-new {
+    width: 9000px;
+    text-align: left;
+    font-weight: bold;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    padding: 20px 150px;
+    color: grey;
+    font-size: xx-large;
+    justify-content: left;
+ }
+
+ /* // npm init// npm i express // npm i cors    // npm mailgun-js     // npm install concurrently      //npm run dev */

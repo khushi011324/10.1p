@@ -1,0 +1,17 @@
+.row{
+
+    display:flex;
+}
+.column{
+    flex:53.33%;
+    display: auto;
+   
+}
+
+.a{
+    width: 40px;
+    display: inline-block   ;
+}
+.b{
+    display: inline-block;
+}

@@ -1,0 +1,5 @@
+.image-gallery {
+    position: relative;
+    margin: 34px 5% 34px; /* 34px top and bottom, 15% left and right */
+    width: 70%; /* Reduce the width to make sure the image fits within the available space */
+}

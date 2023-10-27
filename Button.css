@@ -1,0 +1,23 @@
+.input1 {
+   
+    /* width: 200px; */
+    height: 100px;
+    padding-top: 15px ;
+    background-color:grey;
+    
+    
+    text-align: center;
+    font-size: 150cm;
+    
+    font-weight: bold; 
+    font-family:Lucida Sans;
+    font-size:xx-large;
+   
+    /* float: left;
+    font-weight: bold;
+    border-spacing: 0%; */
+    
+    
+    padding: 20px 40px;
+   
+  }
